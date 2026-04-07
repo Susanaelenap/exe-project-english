@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260407233102LYWWL2</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260407233102PYH8UC</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>creating_with_purpose_4ESO_ingles.elp</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775586441588</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>759f7c9c-d7f4-4ee1-b063-a53e7ed9de38</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página nueva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775550539353-xjjn2j1ke</odePageId>
+  <odeParentPageId>759f7c9c-d7f4-4ee1-b063-a53e7ed9de38</odeParentPageId>
+  <pageName>1. Presentación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Presentación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775550539353-xjjn2j1ke</odePageId>
+      <odeBlockId>block-1775584222528-6r8vtbaf5</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775550539353-xjjn2j1ke</odePageId>
+          <odeBlockId>block-1775584222528-6r8vtbaf5</odeBlockId>
+          <odeIdeviceId>idevice-1775584222526-bje27rnrw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>TAREA 2.1. </strong></p>
+<p><span style="text-decoration: underline;"><strong>DISEÑO DEL PROYECTO</strong></span></p>
+<p><strong>Creating with Purpose: Digital Projects in English</strong></p>
+<p>🎯 <strong>Centro de interés o temática</strong><br />El centro de interés de este proyecto es el uso educativo, crítico y responsable de las herramientas digitales para la creación de contenidos en lengua inglesa.</p>
+<p>A partir de una temática cercana al alumnado (personajes influyentes, cultura actual o referentes sociales), se trabajará la búsqueda, selección y organización de la información, así como la creación de un producto digital significativo. <br /> </p>
+<p>👩‍🎓 <strong>Nivel al que va dirigido</strong><br />Este proyecto está dirigido a 4.º de Educación Secundaria Obligatoria (ESO).</p>
+<p>  </p>
+<p>⏳ <strong>Temporalización aproximada</strong><br />La temporalización prevista es de 8-10 sesiones, distribuidas a lo largo de aproximadamente 3 semanas.</p>
+<p> </p>
+<p>📚 <strong>Materia o materias implicadas</strong><br />La materia principal es Lengua Extranjera: Inglés, aunque se integran elementos transversales relacionados con:</p>
+<ul>
+<li>Competencia digital</li>
+<li>Educación en valores</li>
+<li>Alfabetización mediática</li>
+</ul>
+<p>🌍 <strong>Idioma</strong><br />El idioma principal del proyecto será el inglés, tanto en la elaboración del producto final como en la mayor parte de las actividades.</p>
+<p><br />🧠 <strong>Descripción general del proyecto</strong><br />Con este proyecto se pretende que el alumnado desarrolle un aprendizaje activo, competencial y significativo, mediante la elaboración de un producto digital en inglés.</p>
+<p>El alumnado aprenderá a:</p>
+<ul>
+<li>Buscar información de forma eficaz en internet</li>
+<li>Seleccionar fuentes fiables y relevantes</li>
+<li>Organizar y sintetizar información en inglés</li>
+<li>Utilizar herramientas digitales como Canva o Genially con finalidad educativa</li>
+<li>Crear un producto final digital (presentación, infografía, etc.)</li>
+<li>Expresarse en inglés de forma clara y coherente</li>
+</ul>
+<p>Además, se trabajarán competencias clave como:</p>
+<ul>
+<li>Competencia en comunicación lingüística</li>
+<li>Competencia digital</li>
+<li>Competencia personal, social y de aprender a aprender</li>
+</ul>
+<p></p>
+<p>El proyecto se diseñará teniendo en cuenta los principios del DUA, ofreciendo:</p>
+<ul>
+<li>apoyos visuales y guías paso a paso</li>
+<li>distintos niveles de andamiaje</li>
+<li>diferentes formas de presentar el producto final</li>
+</ul>
+<p><br /></p>
+<p>🔍 <strong>Justificación basada en la rutina de pensamiento</strong><br />La elección de este proyecto se fundamenta en la reflexión realizada a través del modelo de Gibbs, en la que se analizó una experiencia previa con alumnado de 4.º de ESO.</p>
+<p>En dicha experiencia, se propuso la creación de una presentación digital en inglés utilizando herramientas como Canva o Genially. Aunque la actividad resultó motivadora y permitió el uso del idioma en un contexto real, también evidenció diversas dificultades:</p>
+<ul>
+<li>Problemas técnicos en el uso de herramientas digitales</li>
+<li>Dificultades para buscar y seleccionar información fiable</li>
+<li>Diferencias significativas en la competencia digital del alumnado</li>
+<li>Dependencia del docente y falta de autonomía</li>
+<li>Distracciones asociadas al uso de dispositivos</li>
+</ul>
+<p><br />A partir de este análisis, se concluye que no es suficiente con integrar tecnología en el aula, sino que es necesario enseñar explícitamente al alumnado cómo utilizarla con fines educativos.</p>
+<p>Por ello, este proyecto se plantea como una mejora de la práctica docente, incorporando:</p>
+<ul>
+<li>una introducción progresiva y guiada de las herramientas digitales</li>
+<li>el desarrollo explícito de habilidades de búsqueda y selección de información</li>
+<li>estrategias para fomentar la autonomía del alumnado</li>
+<li>el trabajo del uso responsable y ético de la tecnología</li>
+</ul>
+<p><br />Además, se tiene en cuenta la diversidad del alumnado mediante la aplicación de los <strong>principios del DUA</strong>, con el objetivo de reducir las barreras detectadas en la experiencia previa.</p>
+<p>En definitiva, este proyecto responde a la necesidad de transformar una actividad digital puntual en una experiencia de aprendizaje estructurada, inclusiva y pedagógicamente fundamentada.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775584222526-bje27rnrw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>TAREA 2.1. </strong></p>\n<p><span style=\"text-decoration: underline;\"><strong>DISEÑO DEL PROYECTO</strong></span></p>\n<p><strong>Creating with Purpose: Digital Projects in English</strong></p>\n<p>🎯 <strong>Centro de interés o temática</strong><br />El centro de interés de este proyecto es el uso educativo, crítico y responsable de las herramientas digitales para la creación de contenidos en lengua inglesa.</p>\n<p>A partir de una temática cercana al alumnado (personajes influyentes, cultura actual o referentes sociales), se trabajará la búsqueda, selección y organización de la información, así como la creación de un producto digital significativo. <br /> </p>\n<p>👩‍🎓 <strong>Nivel al que va dirigido</strong><br />Este proyecto está dirigido a 4.º de Educación Secundaria Obligatoria (ESO).</p>\n<p>  </p>\n<p>⏳ <strong>Temporalización aproximada</strong><br />La temporalización prevista es de 8-10 sesiones, distribuidas a lo largo de aproximadamente 3 semanas.</p>\n<p> </p>\n<p>📚 <strong>Materia o materias implicadas</strong><br />La materia principal es Lengua Extranjera: Inglés, aunque se integran elementos transversales relacionados con:</p>\n<ul>\n<li>Competencia digital</li>\n<li>Educación en valores</li>\n<li>Alfabetización mediática</li>\n</ul>\n<p>🌍 <strong>Idioma</strong><br />El idioma principal del proyecto será el inglés, tanto en la elaboración del producto final como en la mayor parte de las actividades.</p>\n<p><br />🧠 <strong>Descripción general del proyecto</strong><br />Con este proyecto se pretende que el alumnado desarrolle un aprendizaje activo, competencial y significativo, mediante la elaboración de un producto digital en inglés.</p>\n<p>El alumnado aprenderá a:</p>\n<ul>\n<li>Buscar información de forma eficaz en internet</li>\n<li>Seleccionar fuentes fiables y relevantes</li>\n<li>Organizar y sintetizar información en inglés</li>\n<li>Utilizar herramientas digitales como Canva o Genially con finalidad educativa</li>\n<li>Crear un producto final digital (presentación, infografía, etc.)</li>\n<li>Expresarse en inglés de forma clara y coherente</li>\n</ul>\n<p>Además, se trabajarán competencias clave como:</p>\n<ul>\n<li>Competencia en comunicación lingüística</li>\n<li>Competencia digital</li>\n<li>Competencia personal, social y de aprender a aprender</li>\n</ul>\n<p></p>\n<p>El proyecto se diseñará teniendo en cuenta los principios del DUA, ofreciendo:</p>\n<ul>\n<li>apoyos visuales y guías paso a paso</li>\n<li>distintos niveles de andamiaje</li>\n<li>diferentes formas de presentar el producto final</li>\n</ul>\n<p><br /></p>\n<p>🔍 <strong>Justificación basada en la rutina de pensamiento</strong><br />La elección de este proyecto se fundamenta en la reflexión realizada a través del modelo de Gibbs, en la que se analizó una experiencia previa con alumnado de 4.º de ESO.</p>\n<p>En dicha experiencia, se propuso la creación de una presentación digital en inglés utilizando herramientas como Canva o Genially. Aunque la actividad resultó motivadora y permitió el uso del idioma en un contexto real, también evidenció diversas dificultades:</p>\n<ul>\n<li>Problemas técnicos en el uso de herramientas digitales</li>\n<li>Dificultades para buscar y seleccionar información fiable</li>\n<li>Diferencias significativas en la competencia digital del alumnado</li>\n<li>Dependencia del docente y falta de autonomía</li>\n<li>Distracciones asociadas al uso de dispositivos</li>\n</ul>\n<p><br />A partir de este análisis, se concluye que no es suficiente con integrar tecnología en el aula, sino que es necesario enseñar explícitamente al alumnado cómo utilizarla con fines educativos.</p>\n<p>Por ello, este proyecto se plantea como una mejora de la práctica docente, incorporando:</p>\n<ul>\n<li>una introducción progresiva y guiada de las herramientas digitales</li>\n<li>el desarrollo explícito de habilidades de búsqueda y selección de información</li>\n<li>estrategias para fomentar la autonomía del alumnado</li>\n<li>el trabajo del uso responsable y ético de la tecnología</li>\n</ul>\n<p><br />Además, se tiene en cuenta la diversidad del alumnado mediante la aplicación de los <strong>principios del DUA</strong>, con el objetivo de reducir las barreras detectadas en la experiencia previa.</p>\n<p>En definitiva, este proyecto responde a la necesidad de transformar una actividad digital puntual en una experiencia de aprendizaje estructurada, inclusiva y pedagógicamente fundamentada.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775550539353-xjjn2j1ke</odePageId>
+      <odeBlockId>block-1775551199107-98exk34y4</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775550539353-xjjn2j1ke</odePageId>
+          <odeBlockId>block-1775551199107-98exk34y4</odeBlockId>
+          <odeIdeviceId>idevice-1775551199104-pukrpjrru</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="text-decoration: underline;"><strong>Creating with Purpose: Digital Projects in English</strong></span></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong></strong></span><br /></p>
+<p style="text-align: left;"><strong>Level</strong>: 4th year of Secondary Education (4º ESO)<br /><strong>Subject</strong>: English<br /><strong>Timing</strong>: 10 sessions</p>
+<p><strong>📘 Project description</strong><br />This project is designed for students to create a digital product in English using tools such as Canva or Genially.</p>
+<p>Students will research information, organise ideas and present their work in a creative and visual way. The project promotes the development of communication skills in English, as well as digital competence and responsible use of online resources.</p>
+<p> <br /><strong>🎯 Learning objectives</strong><br />Improve oral and written communication in English<br />Develop digital competence<br />Learn to search and select reliable information<br />Create and present a digital product<br />Use digital tools in a responsible way<br /> <br /><strong>💻 Final goal</strong><br />At the end of the project, students will create and present a digital project in English, applying what they have learned throughout the process.</p>
+<p><br /></p>
+<p>👉<br /><strong>Let’s create, learn and communicate in English!</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775551199104-pukrpjrru","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>Creating with Purpose: Digital Projects in English</strong></span></p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong></strong></span><br /></p>\n<p style=\"text-align: left;\"><strong>Level</strong>: 4th year of Secondary Education (4º ESO)<br /><strong>Subject</strong>: English<br /><strong>Timing</strong>: 10 sessions</p>\n<p><strong>📘 Project description</strong><br />This project is designed for students to create a digital product in English using tools such as Canva or Genially.</p>\n<p>Students will research information, organise ideas and present their work in a creative and visual way. The project promotes the development of communication skills in English, as well as digital competence and responsible use of online resources.</p>\n<p> <br /><strong>🎯 Learning objectives</strong><br />Improve oral and written communication in English<br />Develop digital competence<br />Learn to search and select reliable information<br />Create and present a digital product<br />Use digital tools in a responsible way<br /> <br /><strong>💻 Final goal</strong><br />At the end of the project, students will create and present a digital project in English, applying what they have learned throughout the process.</p>\n<p><br /></p>\n<p>👉<br /><strong>Let’s create, learn and communicate in English!</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775550539353-xjjn2j1ke</odePageId>
+      <odeBlockId>block-1775551452004-ugt2c7sll</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775550539353-xjjn2j1ke</odePageId>
+          <odeBlockId>block-1775551452004-ugt2c7sll</odeBlockId>
+          <odeIdeviceId>idevice-1775551452002-eqxintfl0</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1775551452002-eqxintfl0" title="" href="{{context_path}}/content/resources/niklaspatzig-student-5224082.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/niklaspatzig-student-5224082.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775551452002-eqxintfl0","img_0":{"img":"blob:app://localhost/da5cdd3b-1d2a-4127-9669-a6ae981355fb","thumbnail":"blob:app://localhost/da5cdd3b-1d2a-4127-9669-a6ae981355fb","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775550812686-hn8bt6y3b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Producto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775550812686-hn8bt6y3b</odePageId>
+      <odeBlockId>block-1775585411340-bamvtvem3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775550812686-hn8bt6y3b</odePageId>
+          <odeBlockId>block-1775585411340-bamvtvem3</odeBlockId>
+          <odeIdeviceId>idevice-1775585411338-yjetgsd87</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🎯 <span style="text-decoration: underline;"><strong>Final Product</strong></span><br />You will create a digital project in English using Canva or Genially.</p>
+<p> <br />Your project must include:<br />- Clear and relevant information<br />- A well-organised structure<br />- Correct use of English<br />- Images or visual elements<br />- A creative design<br /> <br /><strong>📘  Presentation</strong><br />At the end of the project, you will present your work orally in class.</p>
+<p> <br /><strong>💥 Important</strong><br />- Use your own words<br />- Do not copy<br />- Respect copyright</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775585411338-yjetgsd87","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🎯 <span style=\"text-decoration: underline;\"><strong>Final Product</strong></span><br />You will create a digital project in English using Canva or Genially.</p>\n<p> <br />Your project must include:<br />- Clear and relevant information<br />- A well-organised structure<br />- Correct use of English<br />- Images or visual elements<br />- A creative design<br /> <br /><strong>📘  Presentation</strong><br />At the end of the project, you will present your work orally in class.</p>\n<p> <br /><strong>💥 Important</strong><br />- Use your own words<br />- Do not copy<br />- Respect copyright</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775550866486-1jv2qlh31</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Actividades</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775550866486-1jv2qlh31</odePageId>
+      <odeBlockId>block-1775586540457-zm0txa44y</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775550866486-1jv2qlh31</odePageId>
+          <odeBlockId>block-1775586540457-zm0txa44y</odeBlockId>
+          <odeIdeviceId>idevice-1775586224224-hzybw4ri2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🧩 <span style="text-decoration: underline;"><strong>Project Activities</strong></span><br />During this project, you will complete the following steps:</p>
+<p> <br /><strong>Session 1:</strong> <span style="text-decoration: underline;">Introduction</span><br />- Introduction to the project<br />- Explanation of the final task<br /> <br /><strong>Sessions 2–3</strong>: <span style="text-decoration: underline;">Research</span><br />- Search for information<br />- Select useful content<br /> <br /><strong>Session 4:</strong> <span style="text-decoration: underline;">Organisation</span><br />- Organise your ideas<br />- Plan your project<br /> <br /><strong>Session 5</strong>: <span style="text-decoration: underline;">Digital tools</span><br />Learn how to use Canva or Genially<br /> <br /><strong>Sessions 6–8</strong>: <span style="text-decoration: underline;">Creation</span><br />Create your digital project<br /> <br /><strong>Session 9</strong>: <span style="text-decoration: underline;">Presentation</span><br />Present your project in class<br /> <br /><strong>Session 10:</strong> <span style="text-decoration: underline;">Reflection</span><br />Complete self-evaluation<br />Reflect on your learning<br /> <br /><br /></p>
+<p><strong>💡Work step by step and ask for help if needed.</strong></p>
+<p><br /> <br /> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775586224224-hzybw4ri2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🧩 <span style=\"text-decoration: underline;\"><strong>Project Activities</strong></span><br />During this project, you will complete the following steps:</p>\n<p> <br /><strong>Session 1:</strong> <span style=\"text-decoration: underline;\">Introduction</span><br />- Introduction to the project<br />- Explanation of the final task<br /> <br /><strong>Sessions 2–3</strong>: <span style=\"text-decoration: underline;\">Research</span><br />- Search for information<br />- Select useful content<br /> <br /><strong>Session 4:</strong> <span style=\"text-decoration: underline;\">Organisation</span><br />- Organise your ideas<br />- Plan your project<br /> <br /><strong>Session 5</strong>: <span style=\"text-decoration: underline;\">Digital tools</span><br />Learn how to use Canva or Genially<br /> <br /><strong>Sessions 6–8</strong>: <span style=\"text-decoration: underline;\">Creation</span><br />Create your digital project<br /> <br /><strong>Session 9</strong>: <span style=\"text-decoration: underline;\">Presentation</span><br />Present your project in class<br /> <br /><strong>Session 10:</strong> <span style=\"text-decoration: underline;\">Reflection</span><br />Complete self-evaluation<br />Reflect on your learning<br /> <br /><br /></p>\n<p><strong>💡Work step by step and ask for help if needed.</strong></p>\n<p><br /> <br /> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775550855936-49tk6pgeb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Recursos para el proyecto</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Recursos para el proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775550855936-49tk6pgeb</odePageId>
+      <odeBlockId>block-1775586615159-084fqzf02</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775550855936-49tk6pgeb</odePageId>
+          <odeBlockId>block-1775586615159-084fqzf02</odeBlockId>
+          <odeIdeviceId>idevice-1775586615158-yhteveh5g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📚 <span style="text-decoration: underline;"><strong>Resources for your project</strong></span><br />To help you complete your project, you can use the following resources:</p>
+<p> <br />🟢 <strong>Resources for students</strong><br />Here you will find useful materials to create your project:</p>
+<p>👉 <a href="https://padlet.com/susanaelenap/resources-for-your-english-project-rqtnvakwfk3kmqp0" title="">Padlet</a></p>
+<p><a href="https://padlet.com/susanaelenap/resources-for-your-english-project-rqtnvakwfk3kmqp0" title=""></a> <br />🟡 <strong>Resources for teachers</strong><br />This selection includes useful tools and resources for classroom management and project organisation:</p>
+<p>👉 <a href="https://www.symbaloo.com/shared/AAAABFkPCWMAA41_l11nfA==" title="">Symbaloo</a><br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775586615158-yhteveh5g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>📚 <span style=\"text-decoration: underline;\"><strong>Resources for your project</strong></span><br />To help you complete your project, you can use the following resources:</p>\n<p> <br />🟢 <strong>Resources for students</strong><br />Here you will find useful materials to create your project:</p>\n<p>👉 <a href=\"https://padlet.com/susanaelenap/resources-for-your-english-project-rqtnvakwfk3kmqp0\" title=\"\">Padlet</a></p>\n<p><a href=\"https://padlet.com/susanaelenap/resources-for-your-english-project-rqtnvakwfk3kmqp0\" title=\"\"></a> <br />🟡 <strong>Resources for teachers</strong><br />This selection includes useful tools and resources for classroom management and project organisation:</p>\n<p>👉 <a href=\"https://www.symbaloo.com/shared/AAAABFkPCWMAA41_l11nfA==\" title=\"\">Symbaloo</a><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775550877386-k3llht1r5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Línea temporal</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775550877386-k3llht1r5</odePageId>
+      <odeBlockId>block-1775587414991-ipdk21z36</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775550877386-k3llht1r5</odePageId>
+          <odeBlockId>block-1775587414991-ipdk21z36</odeBlockId>
+          <odeIdeviceId>idevice-1775587414990-rtr2a68ci</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🗓️<span style="text-decoration: underline;"><strong>  Project timeline</strong></span><br />This timeline shows the different stages of the project and how the work is organised.</p>
+<p>👉 <a href="{{context_path}}/content/resources/Infografia Línea del Tiempo Historia Timeline Doodle Multicolor.png" title="Infografia Línea del Tiempo Historia Timeline Doodle Multicolor.png">Timeline</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775587414990-rtr2a68ci","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🗓️<span style=\"text-decoration: underline;\"><strong>  Project timeline</strong></span><br />This timeline shows the different stages of the project and how the work is organised.</p>\n<p>👉 <a href=\"{{context_path}}/content/resources/Infografia Línea del Tiempo Historia Timeline Doodle Multicolor.png\" title=\"Infografia Línea del Tiempo Historia Timeline Doodle Multicolor.png\">Timeline</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775550877386-k3llht1r5</odePageId>
+      <odeBlockId>block-1775587593254-cijf8yflk</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775550877386-k3llht1r5</odePageId>
+          <odeBlockId>block-1775587593254-cijf8yflk</odeBlockId>
+          <odeIdeviceId>idevice-1775587593252-iurjzanbp</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1775587593252-iurjzanbp" title="" href="{{context_path}}/content/resources/Infografia Línea del Tiempo Historia Timeline Doodle Multicolor.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Infografia Línea del Tiempo Historia Timeline Doodle Multicolor.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775587593252-iurjzanbp","img_0":{"img":"{{context_path}}/content/resources/Infografia Línea del Tiempo Historia Timeline Doodle Multicolor.png","thumbnail":"{{context_path}}/content/resources/Infografia Línea del Tiempo Historia Timeline Doodle Multicolor.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775550887952-jdcrhzpz6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Evaluación</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775550887952-jdcrhzpz6</odePageId>
+      <odeBlockId>block-1775587789003-t3e6ykqz9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775550887952-jdcrhzpz6</odePageId>
+          <odeBlockId>block-1775587789003-t3e6ykqz9</odeBlockId>
+          <odeIdeviceId>idevice-1775587789001-h7twyd963</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📊 <span style="text-decoration: underline;"><strong>Assessment</strong></span><br />During this project, your work will be evaluated using different tools.</p>
+<p> <br />📋 <strong><span style="text-decoration: underline;">What will be evaluated</span></strong>?<br />- Your final digital product<br />- Your work during the project<br />- Your participation and effort<br />- Your use of English<br />- Your use of digital tools</p>
+<p>🟢 1. Rubric<br />Your final product will be evaluated using a rubric.</p>
+<p> 👉 <a href="{{context_path}}/content/resources/Rúbrica.png" title="Rúbrica.png">Rúbrica.png</a><br /></p>
+<p>🟡 2. Checklist<br />Your work during the project will be observed using a checklist.</p>
+<p>👉<a href="{{context_path}}/content/resources/Checklist_proyecto (1).pdf" title="Checklist_proyecto (1).pdf">Checklist</a></p>
+<p>👉 <a href="https://canva.link/uslj9p90hieqdwz" title="">How will I be assessed? </a><br /></p>
+<p>🟣 3. Self-evaluation<br />At the end of the project, you will reflect on your work.</p>
+<p>👉 <a href="{{context_path}}/content/resources/Autoevaluacion_proyecto.pdf" title="Diana de evaluación (1) (1).png">Autoevaluación</a></p>
+<p>👉 <a href="{{context_path}}/content/resources/Diana de evaluación (1) (1).png" title="Diana de evaluación (1) (1).png">Diana de evaluación</a></p>
+<p><br /> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775587789001-h7twyd963","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>📊 <span style=\"text-decoration: underline;\"><strong>Assessment</strong></span><br />During this project, your work will be evaluated using different tools.</p>\n<p> <br />📋 <strong><span style=\"text-decoration: underline;\">What will be evaluated</span></strong>?<br />- Your final digital product<br />- Your work during the project<br />- Your participation and effort<br />- Your use of English<br />- Your use of digital tools</p>\n<p>🟢 1. Rubric<br />Your final product will be evaluated using a rubric.</p>\n<p> 👉 <a href=\"{{context_path}}/content/resources/Rúbrica.png\" title=\"Rúbrica.png\">Rúbrica.png</a><br /></p>\n<p>🟡 2. Checklist<br />Your work during the project will be observed using a checklist.</p>\n<p>👉<a href=\"{{context_path}}/content/resources/Checklist_proyecto (1).pdf\" title=\"Checklist_proyecto (1).pdf\">Checklist</a></p>\n<p>👉 <a href=\"https://canva.link/uslj9p90hieqdwz\" title=\"\">How will I be assessed? </a><br /></p>\n<p>🟣 3. Self-evaluation<br />At the end of the project, you will reflect on your work.</p>\n<p>👉 <a href=\"{{context_path}}/content/resources/Autoevaluacion_proyecto.pdf\" title=\"Diana de evaluación (1) (1).png\">Autoevaluación</a></p>\n<p>👉 <a href=\"{{context_path}}/content/resources/Diana de evaluación (1) (1).png\" title=\"Diana de evaluación (1) (1).png\">Diana de evaluación</a></p>\n<p><br /> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775550887952-jdcrhzpz6</odePageId>
+      <odeBlockId>block-1775588978821-1fzq3zj49</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775550887952-jdcrhzpz6</odePageId>
+          <odeBlockId>block-1775588978821-1fzq3zj49</odeBlockId>
+          <odeIdeviceId>idevice-1775588978820-g9onq0az9</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775550887952-jdcrhzpz6</odePageId>
+      <odeBlockId>block-1775588995355-0erhzc5xc</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775550887952-jdcrhzpz6</odePageId>
+          <odeBlockId>block-1775588995355-0erhzc5xc</odeBlockId>
+          <odeIdeviceId>idevice-1775588995354-0ta0h2wng</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775550825835-lnhzktg4u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775550825835-lnhzktg4u</odePageId>
+      <odeBlockId>block-1775595054238-dyh4zymkt</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775550825835-lnhzktg4u</odePageId>
+          <odeBlockId>block-1775595054238-dyh4zymkt</odeBlockId>
+          <odeIdeviceId>idevice-1775595054236-k6z6o7emi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🔐 <span style="text-decoration: underline;"><strong>Digital Safety and Responsible Use</strong></span><br />When working on this project, you must follow these rules to protect your personal data and respect digital rights:</p>
+<p> <br />🔒 <strong><span style="text-decoration: underline;">Protect your personal information</span></strong><br />- Do not share personal data (name, address, phone number, etc.)<br />- Do not upload private images without permission<br /> <br />🌐 <span style="text-decoration: underline;"><strong>Use safe and reliable sources</strong></span><br />- Use trusted websites<br />- Check the information before using it<br /> <br />📚 <span style="text-decoration: underline;"><strong>Respect copyright</strong></span><br />- Do not copy and paste information<br />- Use your own words<br />- Mention your sources<br /> <br />💬 <span style="text-decoration: underline;"><strong>Be responsible online</strong></span><br />- Use digital tools respectfully<br />- Do not share inappropriate content<br />- Be kind and respectful to others<br /> <br />💡 <span style="text-decoration: underline;"><strong>Remember</strong></span></p>
+<p><br /><strong>Your digital identity is important. Protect it!</strong></p>
+<p> <br />  👉 <a href="{{context_path}}/content/resources/Consejos de Ciberseguridad (1).pdf" title="Consejos de Ciberseguridad (1).pdf">Security Tips</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775595054236-k6z6o7emi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🔐 <span style=\"text-decoration: underline;\"><strong>Digital Safety and Responsible Use</strong></span><br />When working on this project, you must follow these rules to protect your personal data and respect digital rights:</p>\n<p> <br />🔒 <strong><span style=\"text-decoration: underline;\">Protect your personal information</span></strong><br />- Do not share personal data (name, address, phone number, etc.)<br />- Do not upload private images without permission<br /> <br />🌐 <span style=\"text-decoration: underline;\"><strong>Use safe and reliable sources</strong></span><br />- Use trusted websites<br />- Check the information before using it<br /> <br />📚 <span style=\"text-decoration: underline;\"><strong>Respect copyright</strong></span><br />- Do not copy and paste information<br />- Use your own words<br />- Mention your sources<br /> <br />💬 <span style=\"text-decoration: underline;\"><strong>Be responsible online</strong></span><br />- Use digital tools respectfully<br />- Do not share inappropriate content<br />- Be kind and respectful to others<br /> <br />💡 <span style=\"text-decoration: underline;\"><strong>Remember</strong></span></p>\n<p><br /><strong>Your digital identity is important. Protect it!</strong></p>\n<p> <br />  👉 <a href=\"{{context_path}}/content/resources/Consejos de Ciberseguridad (1).pdf\" title=\"Consejos de Ciberseguridad (1).pdf\">Security Tips</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775550912269-xegws243p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Guía didáctica</pageName>
+  <odeNavStructureOrder>20</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775550912269-xegws243p</odePageId>
+      <odeBlockId>block-1775594732354-3zgxxbtlm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775550912269-xegws243p</odePageId>
+          <odeBlockId>block-1775594732354-3zgxxbtlm</odeBlockId>
+          <odeIdeviceId>idevice-1775594732353-hphjizonq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📘 <strong><span style="text-decoration: underline;">Guía didáctica </span>(Teaching Guide)</strong><br />Este proyecto está diseñado para 4º de Educación Secundaria Obligatoria en la materia de Inglés.</p>
+<p> <br />🧩 <strong><span style="text-decoration: underline;">Descripción del proyecto</span> (Project description)</strong><br />El alumnado elaborará un proyecto digital utilizando herramientas como Canva o Genially.<br />El proyecto integra el desarrollo de la competencia digital, la comunicación en lengua inglesa y el uso responsable de la información.</p>
+<p> <br />🎯 <strong><span style="text-decoration: underline;">Objetivos</span> (Objectives)</strong><br />- Mejorar la comunicación oral y escrita en inglés<br />- Desarrollar la competencia digital<br />- Aprender a buscar y seleccionar información fiable<br />- Crear un producto digital<br />- Utilizar herramientas digitales de forma responsable<br /> <br />🏫 <strong><span style="text-decoration: underline;">Organización</span> (Organisation)</strong><br />⏱️ Duración: 10 sesiones<br />👥 Agrupamientos: trabajo individual o en pequeños grupos<br />🏫 Espacios: aula ordinaria / aula TIC<br /> <br />📊 <strong><span style="text-decoration: underline;">Tareas y criterios de evaluación </span>(Tasks and assessment criteria)</strong><br />La siguiente tabla muestra la relación entre las tareas del proyecto y los criterios de evaluación.</p>
+<p>👉 <a href="{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_ (1).pdf" title="Copia de 6.1. Asociamos tareas a Criterios de evaluación_ (1).pdf">Tabla de tareas y criterios de evaluación</a></p>
+<p> <br />💻 <strong><span style="text-decoration: underline;">Herramientas digitales</span> (Digital tools)</strong><br />-💻 Canva<br />-🎨 Genially<br />-📄 Documentos de Google<br />-📌 Padlet<br />-🧠 Symbaloo<br /> <br />🧠 <strong><span style="text-decoration: underline;">Metodología</span> (Methodology)</strong><br />El proyecto se basa en metodologías activas y en el aprendizaje basado en proyectos (ABP).<br />El alumnado trabaja de forma progresiva, desarrollando autonomía, creatividad y habilidades de colaboración.</p>
+<p> <br />🌈 <strong><span style="text-decoration: underline;">Atención a la diversidad (</span>Attention to diversity)</strong><br />Se proporcionarán diferentes niveles de apoyo en función de las necesidades del alumnado.<br />Las tareas son flexibles y permiten distintos ritmos de aprendizaje, favoreciendo la inclusión y el acceso al aprendizaje.</p>
+<p> <br />💡 <strong><span style="text-decoration: underline;">Recomendaciones</span> (Recommendations)</strong><br />- 📌 Proporcionar instrucciones claras<br />- 👀 Supervisar el progreso del alumnado<br />- 💬 Ofrecer feedback durante el proceso<br />- 🎨 Fomentar la creatividad</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775594732353-hphjizonq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>📘 <strong><span style=\"text-decoration: underline;\">Guía didáctica </span>(Teaching Guide)</strong><br />Este proyecto está diseñado para 4º de Educación Secundaria Obligatoria en la materia de Inglés.</p>\n<p> <br />🧩 <strong><span style=\"text-decoration: underline;\">Descripción del proyecto</span> (Project description)</strong><br />El alumnado elaborará un proyecto digital utilizando herramientas como Canva o Genially.<br />El proyecto integra el desarrollo de la competencia digital, la comunicación en lengua inglesa y el uso responsable de la información.</p>\n<p> <br />🎯 <strong><span style=\"text-decoration: underline;\">Objetivos</span> (Objectives)</strong><br />- Mejorar la comunicación oral y escrita en inglés<br />- Desarrollar la competencia digital<br />- Aprender a buscar y seleccionar información fiable<br />- Crear un producto digital<br />- Utilizar herramientas digitales de forma responsable<br /> <br />🏫 <strong><span style=\"text-decoration: underline;\">Organización</span> (Organisation)</strong><br />⏱️ Duración: 10 sesiones<br />👥 Agrupamientos: trabajo individual o en pequeños grupos<br />🏫 Espacios: aula ordinaria / aula TIC<br /> <br />📊 <strong><span style=\"text-decoration: underline;\">Tareas y criterios de evaluación </span>(Tasks and assessment criteria)</strong><br />La siguiente tabla muestra la relación entre las tareas del proyecto y los criterios de evaluación.</p>\n<p>👉 <a href=\"{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_ (1).pdf\" title=\"Copia de 6.1. Asociamos tareas a Criterios de evaluación_ (1).pdf\">Tabla de tareas y criterios de evaluación</a></p>\n<p> <br />💻 <strong><span style=\"text-decoration: underline;\">Herramientas digitales</span> (Digital tools)</strong><br />-💻 Canva<br />-🎨 Genially<br />-📄 Documentos de Google<br />-📌 Padlet<br />-🧠 Symbaloo<br /> <br />🧠 <strong><span style=\"text-decoration: underline;\">Metodología</span> (Methodology)</strong><br />El proyecto se basa en metodologías activas y en el aprendizaje basado en proyectos (ABP).<br />El alumnado trabaja de forma progresiva, desarrollando autonomía, creatividad y habilidades de colaboración.</p>\n<p> <br />🌈 <strong><span style=\"text-decoration: underline;\">Atención a la diversidad (</span>Attention to diversity)</strong><br />Se proporcionarán diferentes niveles de apoyo en función de las necesidades del alumnado.<br />Las tareas son flexibles y permiten distintos ritmos de aprendizaje, favoreciendo la inclusión y el acceso al aprendizaje.</p>\n<p> <br />💡 <strong><span style=\"text-decoration: underline;\">Recomendaciones</span> (Recommendations)</strong><br />- 📌 Proporcionar instrucciones claras<br />- 👀 Supervisar el progreso del alumnado<br />- 💬 Ofrecer feedback durante el proceso<br />- 🎨 Fomentar la creatividad</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775550930269-wd1ilf442</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9. Créditos</pageName>
+  <odeNavStructureOrder>21</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775550930269-wd1ilf442</odePageId>
+      <odeBlockId>block-1775595705686-zo525umqc</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775550930269-wd1ilf442</odePageId>
+          <odeBlockId>block-1775595705686-zo525umqc</odeBlockId>
+          <odeIdeviceId>idevice-1775595705684-pc7bzen4o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>⚪ CRÉDITOS<br />👩‍🏫 <span style="text-decoration: underline;"><strong>Autoría</strong></span><br />Susana E. Pérez Molinero</p>
+<p> <br />📘 <span style="text-decoration: underline;"><strong>Título del proyecto</strong></span><br />Creating with Purpose: Digital Projects in English</p>
+<p> <br />📝 <span style="text-decoration: underline;"><strong>Descripción</strong></span><br />Este recurso educativo está dirigido al alumnado de 4º de Educación Secundaria Obligatoria en la materia de Inglés.<br />Tiene como finalidad el desarrollo de la competencia comunicativa en lengua inglesa y la competencia digital a través de la creación de un proyecto digital.</p>
+<p> <br />⚖️ <strong><span style="text-decoration: underline;">Licencia</span></strong><br />Este recurso se comparte bajo licencia:</p>
+<p>👉 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="">Creative Commons BY-NC-SA</a></p>
+<p>Se permite su uso, adaptación y difusión sin fines comerciales, siempre que se cite la autoría y se comparta bajo la misma licencia.</p>
+<p> <br />📥 Descarga del archivo editable<br />👉 <a href="https://drive.google.com/file/d/1o5bk5g8_rRrwLuVsPbvreCU1mfCgMNEI/view?usp=sharing" title="creatingwithpurpose4esoingleselp.elpx">Descargar archivo editable (.elp)</a></p>
+<p> <br />🖼️ <span style="text-decoration: underline;"><strong>Recursos utilizados</strong></span><br />Imágenes: Pixabay (uso libre para fines educativos)<br />Herramientas digitales: Canva, Genially, Padlet, Symbaloo<br /> <br />💡 <br /><strong>Este recurso ha sido elaborado con fines educativos dentro de un proceso de formación docente.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775595705684-pc7bzen4o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>⚪ CRÉDITOS<br />👩‍🏫 <span style=\"text-decoration: underline;\"><strong>Autoría</strong></span><br />Susana E. Pérez Molinero</p>\n<p> <br />📘 <span style=\"text-decoration: underline;\"><strong>Título del proyecto</strong></span><br />Creating with Purpose: Digital Projects in English</p>\n<p> <br />📝 <span style=\"text-decoration: underline;\"><strong>Descripción</strong></span><br />Este recurso educativo está dirigido al alumnado de 4º de Educación Secundaria Obligatoria en la materia de Inglés.<br />Tiene como finalidad el desarrollo de la competencia comunicativa en lengua inglesa y la competencia digital a través de la creación de un proyecto digital.</p>\n<p> <br />⚖️ <strong><span style=\"text-decoration: underline;\">Licencia</span></strong><br />Este recurso se comparte bajo licencia:</p>\n<p>👉 <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\" title=\"\">Creative Commons BY-NC-SA</a></p>\n<p>Se permite su uso, adaptación y difusión sin fines comerciales, siempre que se cite la autoría y se comparta bajo la misma licencia.</p>\n<p> <br />📥 Descarga del archivo editable<br />👉 <a href=\"https://drive.google.com/file/d/1o5bk5g8_rRrwLuVsPbvreCU1mfCgMNEI/view?usp=sharing\" title=\"creatingwithpurpose4esoingleselp.elpx\">Descargar archivo editable (.elp)</a></p>\n<p> <br />🖼️ <span style=\"text-decoration: underline;\"><strong>Recursos utilizados</strong></span><br />Imágenes: Pixabay (uso libre para fines educativos)<br />Herramientas digitales: Canva, Genially, Padlet, Symbaloo<br /> <br />💡 <br /><strong>Este recurso ha sido elaborado con fines educativos dentro de un proceso de formación docente.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
